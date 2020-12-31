@@ -12,7 +12,7 @@ DCGANによって美味しそうなお肉画像を生成していきます！
 ## Demo
 
 生成された画像のepochごとの推移です．徐々にお肉が生成されていることが見れると思います．
-![demo](output/Gif/8_1000.gif)
+![demo](output/Gif/8_5000.gif)
 
 ## Requirement
 
@@ -34,7 +34,7 @@ pip install requirements.txt
 
 ## Licence
 
-[MIT](https://github.com/tcnksm/tool/blob/master/LICENCE)
+[MIT](https://github.com/mei28/NikuGan/blob/main/LICENSE)
 
 ## Author
 
